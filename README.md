@@ -1,4 +1,3 @@
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iscaraca&show_icons=true&theme=tokyonight)
+Welcome to my Github page.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iscaraca&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+I don't do much on Github but feel free to look around.
